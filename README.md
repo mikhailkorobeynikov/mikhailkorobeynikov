@@ -12,7 +12,7 @@ Mikhail Korobeynikov is a digital designer and creative developer with a strong 
 
 ## Contact
 
-[Telegram](https://t.me/mikhailkorobeynikov)
+[Telegram](https://t.me/mikhailkorobeynikov)  
 [Instagram](https://instagram.com/mikhailkorobeynikov)
 
 ## Social
