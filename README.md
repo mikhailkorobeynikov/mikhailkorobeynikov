@@ -1,16 +1,22 @@
-## Hi there 👋
+## About
 
-<!--
-**mikhailkorobeynikov/mikhailkorobeynikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mikhail Korobeynikov is a digital designer and creative developer with a strong focus on minimal and meaningful design solutions for fast-growing companies. He specialises in web and digital design, branding, art direction and web development. Based in Moscow, Russia.
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[mikhailkorobeynikov.com](https://mikhailkorobeynikov.com)
+
+## Mail
+
+[hi@mikhailkorobeynikov.com](mailto:hi@mikhailkorobeynikov.com)  
+
+## Contact
+
+[Telegram](https://t.me/mikhailkorobeynikov)
+[Instagram](https://instagram.com/mikhailkorobeynikov)
+
+## Social
+
+[Behance](https://www.behance.net/mikhailkorobeynikov)  
+[Dprofile](https://dprofile.ru/mikhailkorobeynikov)  
+[Savee](https://savee.it/mikhailkorobeynikov)
