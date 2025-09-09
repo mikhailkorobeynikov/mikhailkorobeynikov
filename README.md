@@ -14,10 +14,3 @@ Mikhail Korobeynikov is a digital designer and creative developer with a strong 
 
 [Telegram](https://t.me/mikhailkorobeynikov)  
 [Instagram](https://instagram.com/mikhailkorobeynikov)
-
-## Social
-
-[Channel](https://t.me/korobeynikovm)  
-[Behance](https://www.behance.net/mikhailkorobeynikov)  
-[Dprofile](https://dprofile.ru/mikhailkorobeynikov)  
-[Savee](https://savee.it/mikhailkorobeynikov)
