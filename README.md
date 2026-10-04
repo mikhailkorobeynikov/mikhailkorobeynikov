@@ -14,5 +14,5 @@ His work combines product design for fintech, startups and creative web with his
  
 ## Contact
 
-[LinkedIn](https://linkedin.com/korobeynikovm)
+[LinkedIn](https://www.linkedin.com/in/korobeynikovm)
 [Telegram](https://t.me/mikhailkorobeynikov)
